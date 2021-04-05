@@ -1,3 +1,3 @@
-FROM elasticsearch:6.7.2
+FROM elasticsearch:6.8.15
 
 ENV discovery.type single-node
